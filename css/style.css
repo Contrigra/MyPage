@@ -1,0 +1,19 @@
+.heading-title {
+  font-family: Helvetica, Verdana, Serif, sans-serif;
+  font-size: 50px;
+  line-height: 57px;
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+  color: #FFFFFF;
+
+}
+
+body {
+  background-color: #E5E000;
+}
+
+.profile-img {
+  width: 100%;
+
+}
