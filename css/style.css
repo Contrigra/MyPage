@@ -1,3 +1,8 @@
+
+body {
+  background-color: #E5E000;
+}
+
 .heading-title {
   font-family: Helvetica, Verdana, Serif, sans-serif;
   font-size: 50px;
@@ -9,11 +14,20 @@
 
 }
 
-body {
-  background-color: #E5E000;
-}
-
 .profile-img {
   width: 100%;
+}
+
+.menu-container, a{
+  font-family: Helvetica, Verdana, Serif, sans-serif;
+  font-weight: bold;
+
+  font-size: 25px;
+  line-height: 29px;
+  align-items: center;
+  margin-left: 80px;
+  color: #FFFFFF;
+  text-decoration: none;
+  text-transform: uppercase;
 
 }
