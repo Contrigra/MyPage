@@ -18,16 +18,68 @@ body {
   width: 100%;
 }
 
-.menu-container, a{
+.menu-container {
   font-family: Helvetica, Verdana, Serif, sans-serif;
   font-weight: bold;
-
   font-size: 25px;
   line-height: 29px;
   align-items: center;
-  margin-left: 80px;
-  color: #FFFFFF;
-  text-decoration: none;
-  text-transform: uppercase;
+  padding: 35px;
+  padding-left: 80px;
+
 
 }
+
+.menu-container a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+}
+
+.main {
+  background-color: #FFFFFF;
+  font-family: Helvetica, Verdana, Serif, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 57px;
+  padding: 120px;
+  padding-left: 80px;
+
+}
+
+
+.main__about-text {
+  font-weight: 300;
+}
+
+
+.footer {
+  background-size: 200px;
+  align-items: center;
+
+}
+
+
+.footer-text {
+
+}
+
+.link {
+  font-family: Helvetica, Verdana, Serif, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: initial;
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 80px;
+  margin-top: 70px;
+  margin-bottom: 66px;
+
+
+}
+
+
+
+
